@@ -1,2 +1,3 @@
 # Kickstarter_analysis
-Challenge 1
+Performing Analysis on kickstarter data to uncover trends
+An Analysis of Kickstarter Campaigns
